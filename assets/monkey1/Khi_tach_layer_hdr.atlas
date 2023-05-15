@@ -1,0 +1,293 @@
+
+Khi tach layer_hdr.png
+size: 2033,584
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_1
+  rotate: false
+  xy: 1032, 81
+  size: 212, 218
+  orig: 212, 218
+  offset: 0, 0
+  index: -1
+Con_nguoi_L
+  rotate: false
+  xy: 182, 6
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+Con_nguoi_R
+  rotate: false
+  xy: 297, 6
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: false
+  xy: 1664, 83
+  size: 182, 172
+  orig: 182, 172
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 1848, 83
+  size: 182, 172
+  orig: 182, 172
+  offset: 0, 0
+  index: -1
+Eye_Close_L
+  rotate: false
+  xy: 1928, 263
+  size: 77, 43
+  orig: 77, 43
+  offset: 0, 0
+  index: -1
+Eye_Close_R
+  rotate: true
+  xy: 1414, 23
+  size: 77, 43
+  orig: 77, 43
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: true
+  xy: 1837, 18
+  size: 63, 75
+  orig: 63, 75
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: true
+  xy: 1914, 18
+  size: 63, 75
+  orig: 63, 75
+  offset: 0, 0
+  index: -1
+Eye_brown_L
+  rotate: false
+  xy: 675, 5
+  size: 52, 15
+  orig: 52, 15
+  offset: 0, 0
+  index: -1
+Eye_brown_R
+  rotate: true
+  xy: 1991, 30
+  size: 51, 15
+  orig: 51, 15
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 425, 261
+  size: 362, 321
+  orig: 362, 321
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: true
+  xy: 1564, 40
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: true
+  xy: 1246, 9
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+Green
+  rotate: false
+  xy: 1126, 302
+  size: 291, 280
+  orig: 291, 280
+  offset: 0, 0
+  index: -1
+Hair_1
+  rotate: false
+  xy: 959, 10
+  size: 69, 39
+  orig: 69, 39
+  offset: 0, 0
+  index: -1
+Hair_2
+  rotate: false
+  xy: 1345, 31
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+Hand_L_1
+  rotate: false
+  xy: 425, 128
+  size: 249, 131
+  orig: 249, 131
+  offset: 0, 0
+  index: -1
+Hand_L_2
+  rotate: false
+  xy: 412, 2
+  size: 130, 124
+  orig: 130, 125
+  offset: 0, 1
+  index: -1
+Hand_L_holding_note
+  rotate: false
+  xy: 1460, 58
+  size: 102, 73
+  orig: 102, 73
+  offset: 0, 0
+  index: -1
+Hand_R_1
+  rotate: false
+  xy: 789, 164
+  size: 241, 135
+  orig: 241, 135
+  offset: 0, 0
+  index: -1
+Hand_R_2
+  rotate: false
+  xy: 544, 2
+  size: 129, 124
+  orig: 129, 125
+  offset: 0, 1
+  index: -1
+Hand_R_holding_pencil
+  rotate: true
+  xy: 1752, 12
+  size: 69, 83
+  orig: 69, 83
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 154
+  size: 421, 428
+  orig: 421, 428
+  offset: 0, 0
+  index: -1
+In_Ear_L
+  rotate: false
+  xy: 675, 22
+  size: 102, 94
+  orig: 102, 94
+  offset: 0, 0
+  index: -1
+In_Ear_R
+  rotate: false
+  xy: 1928, 308
+  size: 103, 94
+  orig: 103, 94
+  offset: 0, 0
+  index: -1
+Layer_4
+  rotate: true
+  xy: 959, 51
+  size: 111, 64
+  orig: 111, 64
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 1928, 404
+  size: 103, 178
+  orig: 103, 178
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: true
+  xy: 2, 15
+  size: 104, 178
+  orig: 104, 178
+  offset: 0, 0
+  index: -1
+Mount_1
+  rotate: false
+  xy: 1101, 54
+  size: 68, 25
+  orig: 68, 25
+  offset: 0, 0
+  index: -1
+Mount_2
+  rotate: false
+  xy: 1663, 18
+  size: 87, 63
+  orig: 87, 63
+  offset: 0, 0
+  index: -1
+Mount_3
+  rotate: false
+  xy: 1030, 21
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1
+Noise
+  rotate: false
+  xy: 1664, 290
+  size: 39, 10
+  orig: 39, 10
+  offset: 0, 0
+  index: -1
+Note_Up
+  rotate: true
+  xy: 1460, 133
+  size: 167, 202
+  orig: 167, 202
+  offset: 0, 0
+  index: -1
+Note_down
+  rotate: true
+  xy: 789, 7
+  size: 155, 168
+  orig: 155, 168
+  offset: 0, 0
+  index: -1
+Pencil
+  rotate: false
+  xy: 676, 118
+  size: 111, 141
+  orig: 111, 141
+  offset: 0, 0
+  index: -1
+Shadow_1
+  rotate: false
+  xy: 1246, 102
+  size: 212, 198
+  orig: 212, 198
+  offset: 0, 0
+  index: -1
+Shadow_2
+  rotate: true
+  xy: 1712, 257
+  size: 325, 214
+  orig: 325, 214
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 121
+  size: 389, 31
+  orig: 389, 31
+  offset: 0, 0
+  index: -1
+Tay vay chao
+  rotate: true
+  xy: 789, 301
+  size: 281, 335
+  orig: 281, 335
+  offset: 0, 0
+  index: -1
+Yellow
+  rotate: false
+  xy: 1419, 302
+  size: 291, 280
+  orig: 291, 280
+  offset: 0, 0
+  index: -1

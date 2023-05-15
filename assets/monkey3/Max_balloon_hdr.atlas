@@ -1,0 +1,321 @@
+
+Max balloon_hdr.png
+size: 2017, 1270
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Asset 1
+  rotate: false
+  xy: 2, 66
+  size: 864, 1202
+  orig: 864, 1202
+  offset: 0, 0
+  index: -1
+Ban tay
+  rotate: true
+  xy: 1450, 680
+  size: 220, 238
+  orig: 221, 239
+  offset: 0, 0
+  index: -1
+Ban_chan
+  rotate: true
+  xy: 1910, 296
+  size: 183, 99
+  orig: 183, 99
+  offset: 0, 0
+  index: -1
+Bong_mat
+  rotate: false
+  xy: 1690, 848
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+Canh_tay
+  rotate: true
+  xy: 1899, 1042
+  size: 226, 97
+  orig: 226, 97
+  offset: 0, 0
+  index: -1
+Con_nguoi_a
+  rotate: false
+  xy: 1442, 55
+  size: 114, 135
+  orig: 114, 135
+  offset: 0, 0
+  index: -1
+Con_nguoi_b
+  rotate: false
+  xy: 1078, 37
+  size: 95, 46
+  orig: 95, 46
+  offset: 0, 0
+  index: -1
+Con_nguoi_c
+  rotate: false
+  xy: 1704, 110
+  size: 126, 79
+  orig: 126, 79
+  offset: 0, 0
+  index: -1
+Con_nguoi_d
+  rotate: false
+  xy: 1870, 215
+  size: 126, 79
+  orig: 126, 79
+  offset: 0, 0
+  index: -1
+Con_nguoi_e
+  rotate: true
+  xy: 987, 8
+  size: 75, 89
+  orig: 75, 89
+  offset: 0, 0
+  index: -1
+Con_nguoi_f
+  rotate: true
+  xy: 1175, 36
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: false
+  xy: 868, 679
+  size: 580, 589
+  orig: 580, 589
+  offset: 0, 0
+  index: -1
+Dui
+  rotate: false
+  xy: 1899, 830
+  size: 109, 210
+  orig: 109, 210
+  offset: 0, 0
+  index: -1
+Duoi
+  rotate: false
+  xy: 2, 22
+  size: 499, 42
+  orig: 500, 42
+  offset: 1, 0
+  index: -1
+Duoi_1
+  rotate: true
+  xy: 1744, 848
+  size: 420, 153
+  orig: 420, 153
+  offset: 0, 0
+  index: -1
+Duoi_2
+  rotate: false
+  xy: 868, 85
+  size: 461, 149
+  orig: 461, 149
+  offset: 0, 0
+  index: -1
+Duoi_3
+  rotate: true
+  xy: 1368, 230
+  size: 447, 103
+  orig: 447, 103
+  offset: 0, 0
+  index: -1
+Khoang_bung
+  rotate: true
+  xy: 1690, 689
+  size: 157, 196
+  orig: 157, 196
+  offset: 0, 0
+  index: -1
+Khuon_mat
+  rotate: false
+  xy: 868, 236
+  size: 498, 441
+  orig: 498, 441
+  offset: 0, 0
+  index: -1
+Khuyu_chan
+  rotate: false
+  xy: 1331, 14
+  size: 109, 214
+  orig: 109, 215
+  offset: 0, 1
+  index: -1
+Khuyu_tay
+  rotate: true
+  xy: 1911, 481
+  size: 219, 97
+  orig: 220, 97
+  offset: 0, 0
+  index: -1
+Long_may
+  rotate: true
+  xy: 1998, 1184
+  size: 84, 9
+  orig: 84, 9
+  offset: 0, 0
+  index: -1
+Ma_a
+  rotate: false
+  xy: 1870, 130
+  size: 114, 83
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+Ma_b
+  rotate: false
+  xy: 869, 3
+  size: 116, 80
+  orig: 116, 81
+  offset: 0, 0
+  index: -1
+Mat
+  rotate: false
+  xy: 1712, 191
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+Mi_mat
+  rotate: false
+  xy: 1712, 490
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+Mieng_1
+  rotate: false
+  xy: 1442, 19
+  size: 94, 34
+  orig: 94, 34
+  offset: 0, 0
+  index: -1
+Mieng_10
+  rotate: true
+  xy: 1926, 59
+  size: 69, 48
+  orig: 70, 49
+  offset: 1, 0
+  index: -1
+Mieng_11
+  rotate: false
+  xy: 776, 12
+  size: 91, 52
+  orig: 91, 53
+  offset: 0, 0
+  index: -1
+Mieng_12
+  rotate: true
+  xy: 1926, 2
+  size: 55, 33
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+Mieng_2
+  rotate: false
+  xy: 683, 11
+  size: 91, 53
+  orig: 91, 53
+  offset: 0, 0
+  index: -1
+Mieng_3
+  rotate: true
+  xy: 1558, 2
+  size: 100, 71
+  orig: 100, 71
+  offset: 0, 0
+  index: -1
+Mieng_4
+  rotate: false
+  xy: 1711, 22
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+Mieng_5
+  rotate: false
+  xy: 1712, 349
+  size: 196, 139
+  orig: 196, 139
+  offset: 0, 0
+  index: -1
+Mieng_6
+  rotate: false
+  xy: 1888, 702
+  size: 127, 126
+  orig: 127, 126
+  offset: 0, 0
+  index: -1
+Mieng_7
+  rotate: false
+  xy: 503, 8
+  size: 178, 56
+  orig: 178, 56
+  offset: 0, 0
+  index: -1
+Mieng_8
+  rotate: false
+  xy: 1631, 4
+  size: 78, 98
+  orig: 78, 98
+  offset: 0, 0
+  index: -1
+Mieng_9
+  rotate: false
+  xy: 1558, 104
+  size: 144, 86
+  orig: 144, 86
+  offset: 0, 0
+  index: -1
+Mo_hoi
+  rotate: true
+  xy: 1233, 45
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+Mui
+  rotate: false
+  xy: 2, 6
+  size: 54, 14
+  orig: 54, 14
+  offset: 0, 0
+  index: -1
+Nuoc_mat
+  rotate: false
+  xy: 1078, 2
+  size: 85, 33
+  orig: 85, 33
+  offset: 0, 0
+  index: -1
+Tai_a
+  rotate: true
+  xy: 1473, 427
+  size: 251, 237
+  orig: 251, 237
+  offset: 0, 0
+  index: -1
+Tai_b
+  rotate: true
+  xy: 1473, 192
+  size: 233, 237
+  orig: 233, 237
+  offset: 0, 0
+  index: -1
+Than
+  rotate: false
+  xy: 1450, 902
+  size: 292, 366
+  orig: 292, 366
+  offset: 0, 0
+  index: -1
+Toc
+  rotate: false
+  xy: 1833, 33
+  size: 91, 95
+  orig: 91, 95
+  offset: 0, 0
+  index: -1

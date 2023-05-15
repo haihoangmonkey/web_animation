@@ -1,0 +1,293 @@
+
+Monkey_hdr.png
+size: 2001, 904
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Arm_1
+  rotate: false
+  xy: 1512, 361
+  size: 279, 72
+  orig: 279, 72
+  offset: 0, 0
+  index: -1
+Arm_2
+  rotate: false
+  xy: 1512, 288
+  size: 253, 71
+  orig: 253, 72
+  offset: 0, 0
+  index: -1
+Back_Head
+  rotate: false
+  xy: 681, 29
+  size: 423, 394
+  orig: 423, 394
+  offset: 0, 0
+  index: -1
+Ball
+  rotate: false
+  xy: 681, 425
+  size: 478, 477
+  orig: 478, 477
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1150, 22
+  size: 211, 269
+  orig: 211, 269
+  offset: 0, 0
+  index: -1
+Ear_1
+  rotate: false
+  xy: 1459, 113
+  size: 183, 173
+  orig: 183, 173
+  offset: 0, 0
+  index: -1
+Ear_2
+  rotate: false
+  xy: 1644, 113
+  size: 183, 173
+  orig: 183, 173
+  offset: 0, 0
+  index: -1
+Eye_1
+  rotate: false
+  xy: 1851, 245
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+Eye_2
+  rotate: false
+  xy: 1829, 129
+  size: 113, 114
+  orig: 113, 114
+  offset: 0, 0
+  index: -1
+Eye_Shadow_1-1
+  rotate: false
+  xy: 681, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Eye_Shadow_1-2
+  rotate: false
+  xy: 1700, 24
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+Eye_Shadow_2-1
+  rotate: false
+  xy: 708, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Eye_Shadow_2-2
+  rotate: false
+  xy: 1836, 43
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+Eyeball_1-1
+  rotate: false
+  xy: 1936, 512
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+Eyeball_1-2
+  rotate: false
+  xy: 1944, 133
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+Eyeball_1-3
+  rotate: false
+  xy: 1363, 24
+  size: 64, 26
+  orig: 64, 27
+  offset: 0, 1
+  index: -1
+Eyeball_2-1
+  rotate: false
+  xy: 1944, 178
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+Eyeball_2-2
+  rotate: false
+  xy: 1936, 467
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+Eyeball_2-3
+  rotate: true
+  xy: 1955, 689
+  size: 64, 26
+  orig: 64, 27
+  offset: 0, 1
+  index: -1
+Eyebrow_1
+  rotate: true
+  xy: 1983, 701
+  size: 52, 16
+  orig: 52, 16
+  offset: 0, 0
+  index: -1
+Eyebrow_2
+  rotate: true
+  xy: 1983, 647
+  size: 52, 16
+  orig: 52, 16
+  offset: 0, 0
+  index: -1
+Foot_1
+  rotate: false
+  xy: 1700, 39
+  size: 134, 72
+  orig: 134, 72
+  offset: 0, 0
+  index: -1
+Foot_2
+  rotate: false
+  xy: 1793, 361
+  size: 134, 72
+  orig: 134, 72
+  offset: 0, 0
+  index: -1
+Front_Head
+  rotate: false
+  xy: 1588, 579
+  size: 365, 323
+  orig: 365, 323
+  offset: 0, 0
+  index: -1
+Hair_1
+  rotate: false
+  xy: 1836, 58
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+Hair_2
+  rotate: false
+  xy: 1512, 580
+  size: 69, 39
+  orig: 69, 39
+  offset: 0, 0
+  index: -1
+Leg_1
+  rotate: false
+  xy: 1363, 52
+  size: 94, 239
+  orig: 94, 239
+  offset: 0, 0
+  index: -1
+Leg_2
+  rotate: true
+  xy: 1459, 18
+  size: 93, 239
+  orig: 94, 239
+  offset: 1, 0
+  index: -1
+Luoi ro
+  rotate: false
+  xy: 1161, 293
+  size: 349, 326
+  orig: 349, 326
+  offset: 0, 0
+  index: -1
+Mid_Head
+  rotate: false
+  xy: 1161, 621
+  size: 425, 281
+  orig: 425, 281
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: true
+  xy: 1955, 755
+  size: 67, 39
+  orig: 67, 39
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: true
+  xy: 1767, 294
+  size: 65, 82
+  orig: 65, 82
+  offset: 0, 0
+  index: -1
+Mouth_3
+  rotate: false
+  xy: 1904, 52
+  size: 53, 75
+  orig: 53, 75
+  offset: 0, 0
+  index: -1
+Mouth_4
+  rotate: true
+  xy: 1873, 490
+  size: 87, 61
+  orig: 87, 61
+  offset: 0, 0
+  index: -1
+Mouth_5
+  rotate: true
+  xy: 1955, 824
+  size: 78, 37
+  orig: 78, 37
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 1988, 470
+  size: 40, 11
+  orig: 40, 11
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 1512, 435
+  size: 407, 37
+  orig: 407, 37
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 1512, 474
+  size: 359, 103
+  orig: 359, 103
+  offset: 0, 0
+  index: -1
+Thanh ro
+  rotate: true
+  xy: 1106, 10
+  size: 413, 42
+  orig: 413, 42
+  offset: 0, 0
+  index: -1
+Tongue_1
+  rotate: false
+  xy: 1959, 85
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+template
+  rotate: false
+  xy: 2, 7
+  size: 677, 895
+  orig: 677, 895
+  offset: 0, 0
+  index: -1

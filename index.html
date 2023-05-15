@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+	<title>Animation</title>
+</head>
+
+<body>
+	<div id="player" style="width: 500px; height: 250px;"></div>
+	<div id="player1" style="width: 500px; height: 250px;"></div>
+	<div id="player2" style="width: 500px; height: 250px;"></div>
+	<div id="player3" style="width: 500px; height: 250px;"></div>
+	<div id="player4" style="width: 500px; height: 250px;"></div>
+	<div id="player5" style="width: 500px; height: 250px;"></div>
+
+</body>
+<script src="https://unpkg.com/@esotericsoftware/spine-player@4.0.*/dist/iife/spine-player.min.js" ></script>
+	<link rel="stylesheet" href="https://unpkg.com/@esotericsoftware/spine-player@4.0.*/dist/spine-player.min.css">
+<script>
+	// Creates a  new spine player with embedded data
+	new spine.SpinePlayer("player", {
+		jsonUrl: "assets/raptor/raptor-pro.json",
+		atlasUrl: "assets/raptor/raptor-pma.atlas",
+		animation: "jump",
+		premultipliedAlpha: true,
+		backgroundColor: "#cccccc",
+		viewport: {
+			debugRender: false,
+		},
+		showControls: false,
+	});
+
+	new spine.SpinePlayer("player1", {
+		jsonUrl: "assets/monkey1/Khi_tach_layer.json",
+		atlasUrl: "assets/monkey1/Khi_tach_layer_hd.atlas",
+		animation: 'MX16: Khi vay tay trong luc user mo man',
+		premultipliedAlpha: true,
+		backgroundColor: "#cccccc",
+		viewport: {
+			debugRender: false,
+		},
+		showControls: false,
+	});
+
+	new spine.SpinePlayer("player2", {
+		jsonUrl: "assets/monkey2/Max.json",
+		atlasUrl: "assets/monkey2/Max om trung_hd.atlas",
+		animation: 'Max take egg',
+		premultipliedAlpha: true,
+		backgroundColor: "#cccccc",
+		viewport: {
+			debugRender: false,
+		},
+		showControls: false,
+	});
+
+	new spine.SpinePlayer("player3", {
+		jsonUrl: "assets/monkey3/Max.json",
+		atlasUrl: "assets/monkey3/Max_balloon_hd.atlas",
+		animation: 'Tap 3',
+		premultipliedAlpha: true,
+		backgroundColor: "#cccccc",
+		viewport: {
+			debugRender: false,
+		},
+		showControls: false,
+	});
+
+	new spine.SpinePlayer("player4", {
+		jsonUrl: "assets/play_button/play.json",
+		atlasUrl: "assets/play_button/play_hdr.atlas",
+		animation: 'action',
+		premultipliedAlpha: true,
+		backgroundColor: "#cccccc",
+		viewport: {
+			debugRender: false,
+		},
+		showControls: false,
+	});
+
+	new spine.SpinePlayer("player5", {
+		jsonUrl: "assets/monkeyBall/Monkey.json",
+		atlasUrl: "assets/monkeyBall/Monkey_hdr.atlas",
+		animation: 'Nem bong',
+		premultipliedAlpha: true,
+		alpha: true,
+		backgroundColor: "#cccccc",
+		viewport: {
+			debugRender: false,
+		},
+		showControls: false,
+	});
+</script>
+
+</html>

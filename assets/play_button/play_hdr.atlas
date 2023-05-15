@@ -1,0 +1,76 @@
+
+play_hdr.png
+size: 3051,973
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+particle 1
+  rotate: false
+  xy: 2806, 281
+  size: 158, 185
+  orig: 187, 200
+  offset: 15, 14
+  index: -1
+particle 2
+  rotate: true
+  xy: 2630, 191
+  size: 73, 110
+  orig: 115, 132
+  offset: 21, 21
+  index: -1
+particle 3
+  rotate: true
+  xy: 2002, 85
+  size: 104, 135
+  orig: 137, 152
+  offset: 17, 16
+  index: -1
+particle 4
+  rotate: true
+  xy: 1864, 83
+  size: 106, 136
+  orig: 138, 154
+  offset: 16, 17
+  index: -1
+particle 5
+  rotate: false
+  xy: 2966, 364
+  size: 61, 102
+  orig: 110, 128
+  offset: 24, 25
+  index: -1
+particle 6
+  rotate: false
+  xy: 2630, 266
+  size: 174, 200
+  orig: 202, 215
+  offset: 14, 14
+  index: -1
+play_circle 1
+  rotate: false
+  xy: 1864, 191
+  size: 764, 780
+  orig: 778, 788
+  offset: 7, 7
+  index: -1
+play_circle 2
+  rotate: false
+  xy: 973, 62
+  size: 889, 909
+  orig: 928, 929
+  offset: 19, 19
+  index: -1
+play_circle 3
+  rotate: false
+  xy: 2, 2
+  size: 969, 969
+  orig: 971, 971
+  offset: 1, 1
+  index: -1
+play_triangle
+  rotate: false
+  xy: 2630, 468
+  size: 419, 503
+  orig: 467, 531
+  offset: 21, 27
+  index: -1

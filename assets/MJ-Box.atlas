@@ -1,0 +1,139 @@
+
+MJ-Box.png
+size: 1012,600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BoxRibbon_0
+  rotate: false
+  xy: 361, 14
+  size: 165, 74
+  orig: 165, 74
+  offset: 0, 0
+  index: -1
+BoxRibbon_1
+  rotate: false
+  xy: 361, 90
+  size: 164, 76
+  orig: 164, 76
+  offset: 0, 0
+  index: -1
+BoxRibbon_2
+  rotate: false
+  xy: 854, 62
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1
+BoxRibbon_3
+  rotate: false
+  xy: 854, 3
+  size: 91, 57
+  orig: 91, 57
+  offset: 0, 0
+  index: -1
+blueBox_00
+  rotate: false
+  xy: 0, 384
+  size: 324, 214
+  orig: 324, 214
+  offset: 0, 0
+  index: -1
+blueBox_01
+  rotate: false
+  xy: 527, 110
+  size: 324, 26
+  orig: 324, 26
+  offset: 0, 0
+  index: -1
+blueBox_02
+  rotate: false
+  xy: 0, 86
+  size: 359, 80
+  orig: 359, 80
+  offset: 0, 0
+  index: -1
+greenBox_00
+  rotate: false
+  xy: 0, 168
+  size: 324, 214
+  orig: 324, 214
+  offset: 0, 0
+  index: -1
+greenBox_01
+  rotate: false
+  xy: 528, 27
+  size: 324, 25
+  orig: 324, 25
+  offset: 0, 0
+  index: -1
+greenBox_02
+  rotate: false
+  xy: 0, 4
+  size: 359, 80
+  orig: 359, 80
+  offset: 0, 0
+  index: -1
+pinkBox_00
+  rotate: false
+  xy: 326, 384
+  size: 324, 214
+  orig: 324, 214
+  offset: 0, 0
+  index: -1
+pinkBox_01
+  rotate: false
+  xy: 528, 82
+  size: 324, 26
+  orig: 324, 26
+  offset: 0, 0
+  index: -1
+pinkBox_02
+  rotate: false
+  xy: 652, 302
+  size: 359, 80
+  orig: 359, 80
+  offset: 0, 0
+  index: -1
+purpleBox_00
+  rotate: false
+  xy: 326, 168
+  size: 324, 214
+  orig: 324, 214
+  offset: 0, 0
+  index: -1
+purpleBox_01
+  rotate: false
+  xy: 528, 0
+  size: 324, 25
+  orig: 324, 25
+  offset: 0, 0
+  index: -1
+purpleBox_02
+  rotate: false
+  xy: 652, 220
+  size: 359, 80
+  orig: 359, 80
+  offset: 0, 0
+  index: -1
+redBox_00
+  rotate: false
+  xy: 652, 384
+  size: 324, 214
+  orig: 324, 214
+  offset: 0, 0
+  index: -1
+redBox_01
+  rotate: false
+  xy: 528, 54
+  size: 324, 26
+  orig: 324, 26
+  offset: 0, 0
+  index: -1
+redBox_02
+  rotate: false
+  xy: 652, 138
+  size: 359, 80
+  orig: 359, 80
+  offset: 0, 0
+  index: -1

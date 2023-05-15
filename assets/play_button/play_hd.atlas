@@ -1,0 +1,76 @@
+
+play_hd.png
+size: 490,1533
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+particle 1
+  rotate: true
+  xy: 395, 414
+  size: 79, 93
+  orig: 94, 100
+  offset: 8, 7
+  index: -1
+particle 2
+  rotate: true
+  xy: 395, 267
+  size: 36, 56
+  orig: 58, 66
+  offset: 11, 10
+  index: -1
+particle 3
+  rotate: true
+  xy: 395, 305
+  size: 52, 68
+  orig: 69, 76
+  offset: 9, 8
+  index: -1
+particle 4
+  rotate: true
+  xy: 395, 359
+  size: 53, 69
+  orig: 69, 77
+  offset: 8, 8
+  index: -1
+particle 5
+  rotate: false
+  xy: 453, 251
+  size: 31, 52
+  orig: 55, 64
+  offset: 12, 12
+  index: -1
+particle 6
+  rotate: false
+  xy: 395, 495
+  size: 87, 101
+  orig: 101, 108
+  offset: 7, 7
+  index: -1
+play_circle 1
+  rotate: true
+  xy: 2, 213
+  size: 383, 391
+  orig: 389, 394
+  offset: 3, 3
+  index: -1
+play_circle 2
+  rotate: true
+  xy: 2, 598
+  size: 445, 455
+  orig: 464, 465
+  offset: 9, 10
+  index: -1
+play_circle 3
+  rotate: false
+  xy: 2, 1045
+  size: 486, 486
+  orig: 486, 486
+  offset: 0, 0
+  index: -1
+play_triangle
+  rotate: true
+  xy: 2, 2
+  size: 209, 252
+  orig: 234, 266
+  offset: 11, 14
+  index: -1
